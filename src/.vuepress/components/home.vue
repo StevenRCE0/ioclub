@@ -164,6 +164,7 @@ export default {
 		border-top: 1px solid $borderColor;
 		padding: 1.2rem 0;
 		margin-top: 2.5rem;
+		margin-bottom: -1rem;
 		display: flex;
 		flex-wrap: wrap;
 		align-items: flex-start;
@@ -175,6 +176,7 @@ export default {
 		flex-grow: 1;
 		flex-basis: 30%;
 		max-width: 30%;
+		margin-bottom: 1rem;
 
 		h2 {
 			font-size: 1.4rem;
